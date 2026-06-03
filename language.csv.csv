@@ -1,0 +1,58 @@
+Text,language
+Hello,English
+How are you?,English
+Good morning,English
+Thank you,English
+Goodbye,English
+What is your name?,English
+I love programming,English
+The weather is nice today,English
+Bonjour,French
+Comment allez-vous?,French
+Merci beaucoup,French
+Au revoir,French
+Je suis content,French
+Bonne journée,French
+C'est magnifique,French
+Guten Tag,German
+Wie geht es Ihnen?,German
+Danke schön,German
+Auf Wiedersehen,German
+Ich lerne Deutsch,German
+Das Wetter ist schön,German
+Sehr gut,German
+Hola,Spanish
+¿Cómo estás?,Spanish
+Gracias por todo,Spanish
+Adiós,Spanish
+Me gusta programar,Spanish
+El clima está agradable,Spanish
+Muy bien,Spanish
+Ciao,Italian
+Come stai?,Italian
+Grazie mille,Italian
+Arrivederci,Italian
+Mi piace la pizza,Italian
+Che bella giornata,Italian
+Molto bene,Italian
+Olá,Portuguese
+Como você está?,Portuguese
+Muito obrigado,Portuguese
+Adeus,Portuguese
+Eu gosto de programar,Portuguese
+O tempo está bom,Portuguese
+Ótimo,Portuguese
+Konnichiwa,Japanese
+Sayōnara,Japanese
+Arigatō,Japanese
+Oyasumi,Japanese
+Genki desu ka?,Japanese
+Tenki ga ii desu,Japanese
+Hai,Japanese
+Namaste, Hindi
+Kaisa hai?,Hindi
+Dhanyavaad,Hindi
+Alvida,Hindi
+Main program kar raha hoon,Hindi
+Aaj mausam accha hai,Hindi
+Bahut accha,Hindi
